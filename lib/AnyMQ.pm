@@ -1,7 +1,7 @@
 package AnyMQ;
 use strict;
 use 5.008_001;
-our $VERSION = '0.35';
+our $VERSION = '0.36';
 
 use AnyEvent;
 use Any::Moose;

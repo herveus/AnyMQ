@@ -1,5 +1,10 @@
 Revision history for Perl extension AnyMQ
 
+0.36 Sun Feb 22 21:13:00 EST 2015
+        - Bump version to force a rebuild of the distribution with updated 
+          Module::Install files to fix version problem causing test failures
+          [herveus]
+
 0.35 Sat Feb 16 18:34:24 CST 2013
         - Support unpoll. [alexmv]
 
